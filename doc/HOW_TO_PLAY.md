@@ -1,0 +1,3 @@
+# How to play
+
+Put game rules here...
